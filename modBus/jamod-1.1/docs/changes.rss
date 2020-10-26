@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91"><channel><title>jamod Changes</title><link>http://jamod.sourceforge.net/changes.html</link><description>jamod Changes</description><language>en-us</language><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+        Converted and updated documentation to XML and forrest based generation.
+      </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              jdcharlton
+              :
+              
+	    Added Modbus/RTU Implementation (Master)
+	  </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              jdcharlton
+              :
+              
+	    Added Modbus Serial Echo support (RS485)
+	  </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+        Updated BitVector to support starting index from LSB or MSB
+      </description></item><item><title> update</title><link>http://jamod.sourceforge.net/changes.html</link><description> update
+              by 
+              wimpi
+              :
+              
+	    Updated registers and base functions to handle register content as byte[2].
+	  </description></item><item><title> update</title><link>http://jamod.sourceforge.net/changes.html</link><description> update
+              by 
+              wimpi
+              :
+              
+	    Updated debug messages to be triggered by net.wimpi.modbus.debug property, that
+		can be passed to the VM on startup.
+	  </description></item><item><title> update</title><link>http://jamod.sourceforge.net/changes.html</link><description> update
+              by 
+              wimpi
+              :
+              
+	    Updated LRC calculation.
+	  </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+	    Reduced overhead and enhanced speed by changing the way message I/O
+		is handled (see Transportable, FastByteArray I/O)
+      </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+	    Added missing standard request and response for WRITE MULTIPLE COILS
+      </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+        Added facades providing Modbus/TCP and Modbus/UDP master functionality
+      </description></item><item><title> add</title><link>http://jamod.sourceforge.net/changes.html</link><description> add
+              by 
+              wimpi
+              :
+              
+        Modbus/UDP Implementation
+      </description></item></channel></rss>

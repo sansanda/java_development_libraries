@@ -1,0 +1,11 @@
+com.schneide.quantity
+com.schneide.quantity.electricalQuantities
+com.schneide.quantity.electricalQuantities.handlers
+com.schneide.quantity.mechanicalQuantities
+com.schneide.quantity.mechanicalQuantities.handlers
+com.schneide.quantity.miscQuantities
+com.schneide.quantity.miscQuantities.handlers
+com.schneide.quantity.radioactivityQuantities
+com.schneide.quantity.radioactivityQuantities.handlers
+com.schneide.quantity.tests
+com.schneide.quantity.unit

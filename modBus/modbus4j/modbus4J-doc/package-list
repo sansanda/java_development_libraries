@@ -1,0 +1,15 @@
+
+com.serotonin.modbus4j
+com.serotonin.modbus4j.base
+com.serotonin.modbus4j.code
+com.serotonin.modbus4j.enums
+com.serotonin.modbus4j.exception
+com.serotonin.modbus4j.ip
+com.serotonin.modbus4j.ip.tcp
+com.serotonin.modbus4j.ip.udp
+com.serotonin.modbus4j.msg
+com.serotonin.modbus4j.serial
+com.serotonin.modbus4j.serial.ascii
+com.serotonin.modbus4j.serial.rtu
+com.serotonin.modbus4j.test
+com.serotonin.modbus4j.value

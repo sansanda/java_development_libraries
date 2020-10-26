@@ -1,0 +1,10 @@
+0.9
+- fixed wrong unit string for "micro"
+- fixed a bug that changed the value of a quantity that is given as parameter in a substraction.
+- fixed a bug in multiplication with unit exponents different from 1
+- previously abstract method isUnitCorrect() now implemented in AbstractQuantity,
+  thus making it easier to create new specialized Quantities.
+
+0.8 to 0.9rc1:
+- now providing Framework for adding new Units/Quantities by inherison
+- enhanced library
