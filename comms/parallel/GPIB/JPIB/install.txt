@@ -1,0 +1,8 @@
+1. put jpib.dll in the directory you are lauching the Java application OR in
+the windows directory (usually c:\windows)
+
+2. put the gpib.properties files in JRE's directory (c:\program files\jre\lib)
+
+3 be sure that jpib.jar is in your classpath, either by adding it manually,
+either by putting the JAR file in your JRE's (c:\program file\jre\lib\ext )
+directory
